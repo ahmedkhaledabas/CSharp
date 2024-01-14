@@ -9,14 +9,13 @@ namespace ConsoleApp1
     internal class Question
     {
         private List<string> _questions = new List<string>();
-        private  List<string> _answers = new List<string>();
+        private List<string> _answers = new List<string>();
         private List<string> _level = new List<string>();
         private List<int> _mark = new List<int>();
         private static int _totalGrade;
         private static int _grade;
         private int _numberOfQuestions;
         string Answer;
-
 
         public List<string> Questions
         {
@@ -30,11 +29,11 @@ namespace ConsoleApp1
             }
         }
 
-        public  List<string> Answers
+        public List<string> Answers
         {
             get
             {
-                return  _answers;
+                return _answers;
             }
             set
             {
@@ -156,17 +155,16 @@ namespace ConsoleApp1
             _totalGrade += mark;
         }
 
-        public virtual bool CheckAnswer(int i )
+        public virtual bool CheckAnswer(int i)
         {
-            string answer ="";
+            string answer = "";
             Console.Write("Your Answer : ");
             answer = Console.ReadLine().ToLower().Trim();
             Correction(i, answer.Trim());
             return answer == Answers[i];
-
         }
 
-        public void startExam(string name )
+        public void startExam(string name)
         {
             Console.WriteLine($"{Questions.Count} {name}");
             Console.WriteLine("--------------------------------------\n");
@@ -181,7 +179,6 @@ namespace ConsoleApp1
         public void Correction(int i, string answer)
         {
             if (answer == Answers[i]) Grade += Mark[i];
-
         }
 
         public void WelcomeStudent()
@@ -200,6 +197,6 @@ namespace ConsoleApp1
             Console.WriteLine($"Your Grade : {_grade} from {_totalGrade}\n");
             Console.WriteLine("-----------BEST WISHES--------------");
         }
-        
+
     }
 }

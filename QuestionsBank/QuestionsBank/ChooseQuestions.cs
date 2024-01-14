@@ -9,9 +9,8 @@ namespace ConsoleApp1
 {
     internal class ChooseQuestions : Question
     {
-
-
-        static bool s ;
+        static bool s;
+        string[] ChoicesAnswers;
 
         public void TakeAnswer()
         {
@@ -19,18 +18,19 @@ namespace ConsoleApp1
             string b = "";
             string c = "";
             string d = "";
+            string correctAnswer;
 
             Console.WriteLine("enter 4 choices");
-                
-                Console.Write("A - ");
-                 a = Console.ReadLine().ToLower().Trim();
-
-                do {
+            Console.Write("A - ");
+            a = Console.ReadLine().ToLower().Trim();
+            
+            do
+            {
                 s = true;
                 Console.Write("B - ");
-                 b = Console.ReadLine().ToLower().Trim();
-                    if(b != a)s=false;
-                    }while(s);
+                b = Console.ReadLine().ToLower().Trim();
+                if (b != a) s = false;
+            } while (s);
 
             do
             {
@@ -46,27 +46,23 @@ namespace ConsoleApp1
                 Console.Write("D - ");
                 d = Console.ReadLine().ToLower().Trim();
                 if (d != c && d != a && d != b) s = false;
-
             } while (s);
 
-            string correctAnswer;
             do
             {
                 s = true;
                 Console.Write("enter the correct answer :  ");
                 correctAnswer = Console.ReadLine().ToLower().Trim();
-                if(correctAnswer == a || correctAnswer == b || correctAnswer == c || correctAnswer == d)s = false;
-            }while ( s) ;
-                Answers.Add($"{a} , {b} , {c} , {d} , {correctAnswer}");
-         
+                if (correctAnswer == a || correctAnswer == b || correctAnswer == c || correctAnswer == d) s = false;
+            } while (s);
+            Answers.Add($"{a} , {b} , {c} , {d} , {correctAnswer}");
         }
 
-        string[] ChoicesAnswers;
-            public override bool CheckAnswer(int i )
+        public override bool CheckAnswer(int i)
         {
+            string answer;
             ChoicesAnswers = Answers[i].Split(',');
             Console.WriteLine($"A - {ChoicesAnswers[0]} , B - {ChoicesAnswers[1]} , C - {ChoicesAnswers[2]} , D - {ChoicesAnswers[3]}");
-            string answer;
             do
             {
                 s = true;
@@ -80,21 +76,16 @@ namespace ConsoleApp1
                         break;
                     }
                 }
-                
             } while (s);
             string CorrectAnswer = ChoicesAnswers[ChoicesAnswers.Length - 1].ToLower().Trim();
             Correction(i, answer);
             return answer == CorrectAnswer;
-
         }
+
         public void Correction(int i, string answer)
         {
-            if (answer == ChoicesAnswers[0].Trim() || answer == ChoicesAnswers[1].Trim() || answer == ChoicesAnswers[2].Trim() || answer == ChoicesAnswers[3].Trim())
-            {
-                Grade += Mark[i];
-            }
+            if (answer == ChoicesAnswers[0].Trim() || answer == ChoicesAnswers[1].Trim() || answer == ChoicesAnswers[2].Trim() || answer == ChoicesAnswers[3].Trim()) Grade += Mark[i];
         }
-
 
     }
 }

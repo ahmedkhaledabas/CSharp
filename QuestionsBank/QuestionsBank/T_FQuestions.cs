@@ -24,12 +24,8 @@ namespace ConsoleApp1
             Answers.Add(Answer);
         }
 
-
-        
-
         public override bool CheckAnswer(int i)
         {
-            string Answer;
             do
             {
                 checkTrueFalse = true;

@@ -28,3 +28,18 @@ C:\Users\LENOVO\source\repos\New folder\QuestionsBank\QuestionsBank\obj\Debug\ne
 C:\Users\LENOVO\source\repos\New folder\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.pdb
 C:\Users\LENOVO\source\repos\New folder\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\New folder\QuestionsBank\QuestionsBank\obj\Debug\net6.0\ref\QuestionsBank.dll
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.dll
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\refint\QuestionsBank.dll
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.pdb
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\net6.0\QuestionsBank.exe
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\net6.0\QuestionsBank.deps.json
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\net6.0\QuestionsBank.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\net6.0\QuestionsBank.dll
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\net6.0\QuestionsBank.pdb
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\ref\QuestionsBank.dll

@@ -6,12 +6,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-           ChooseQuestions chooseQuestions = new ChooseQuestions();
-           T_FQuestions t_FQuestions = new T_FQuestions();
+
+            ChooseQuestions chooseQuestions = new ChooseQuestions();
+            T_FQuestions t_FQuestions = new T_FQuestions();
             CompleteQuestions completeQuestions = new CompleteQuestions();
-           TranslateQuestion translateQuestion = new TranslateQuestion();
-           
-           chooseQuestions.WelcomeInstructor();
+            TranslateQuestion translateQuestion = new TranslateQuestion();
+
+            chooseQuestions.WelcomeInstructor();
 
             bool x;
             int choosenQuestion;
@@ -67,9 +68,8 @@ namespace ConsoleApp1
 
             } while (!x || chooseQuestions.NumberOfQuestions != 0);
 
-
             t_FQuestions.WelcomeStudent();
-            if(chooseQuestions.Questions.Count > 0)chooseQuestions.startExam("MCQ Questions");
+            if (chooseQuestions.Questions.Count > 0) chooseQuestions.startExam("MCQ Questions");
             Console.WriteLine("\n\n");
             if (t_FQuestions.Questions.Count > 0) t_FQuestions.startExam("True & False Questions");
             Console.WriteLine("\n\n");
