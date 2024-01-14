@@ -17,76 +17,12 @@ namespace ConsoleApp1
         private int _numberOfQuestions;
         string Answer;
 
-        public List<string> Questions
-        {
-            get
-            {
-                return _questions;
-            }
-            set
-            {
-                _questions = value;
-            }
-        }
-
-        public List<string> Answers
-        {
-            get
-            {
-                return _answers;
-            }
-            set
-            {
-                _answers = value;
-            }
-        }
-
-        public List<string> Level
-        {
-            get
-            {
-                return _level;
-            }
-            set
-            {
-                _level = value;
-            }
-        }
-        public List<int> Mark
-        {
-            get
-            {
-                return _mark;
-            }
-            set
-            {
-                _mark = value;
-            }
-        }
-
-        public int Grade
-        {
-            get
-            {
-                return _grade;
-            }
-            set
-            {
-                _grade = value;
-            }
-        }
-
-        public int NumberOfQuestions
-        {
-            get
-            {
-                return _numberOfQuestions;
-            }
-            set
-            {
-                _numberOfQuestions = value;
-            }
-        }
+        public List<string> Questions { get => _questions; set => _questions = value;}
+        public List<string> Answers { get => _answers; set => _answers = value; }
+        public List<string> Level { get => _level; set => _level = value; }
+        public List<int> Mark  { get => _mark; set => _mark = value; }
+        public int Grade {get => _grade; set => _grade = value; }
+        public int NumberOfQuestions { get => _numberOfQuestions; set => _numberOfQuestions = value; }
 
         public void WelcomeInstructor()
         {
@@ -136,7 +72,12 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("enter level [ Easy , Medium , Hard ]");
                 level = Console.ReadLine().ToLower().Trim();
-                if (level == "easy" || level == "medium" || level == "hard") checkLevel = false;
+                if (level == "easy" || level == "medium" || level == "hard")
+                {
+                    checkLevel = false;
+                    Console.ForegroundColor = ConsoleColor.White;
+                }
+                else Console.ForegroundColor = ConsoleColor.Red;
             } while (checkLevel);
             Level.Add(level);
         }
@@ -149,7 +90,11 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("enter [ mark from 1 to 10 ]");
                 bool x = int.TryParse(Console.ReadLine(), out mark);
-                if (mark >= 1 && mark <= 10) checkMark = false;
+                if (mark >= 1 && mark <= 10)
+                {
+                    checkMark = false;
+                    Console.ForegroundColor = ConsoleColor.White;
+                }else Console.ForegroundColor = ConsoleColor.Red;
             } while (checkMark);
             Mark.Add(mark);
             _totalGrade += mark;
@@ -186,7 +131,6 @@ namespace ConsoleApp1
             Console.WriteLine("--------------WELCOME---------------");
             Console.WriteLine("-------------Start Exam-------------");
             Console.WriteLine($"{DateTime.Now.ToString("dddd, dd MMMM yyyy")}");
-            Console.WriteLine($"You have {_numberOfQuestions} Questions");
             Console.WriteLine("-----------BEST WISHES--------------\n");
         }
 
@@ -194,7 +138,23 @@ namespace ConsoleApp1
         {
             Console.WriteLine("\n");
             Console.WriteLine("--------------GOOD BEY-------------- \n");
+            if (_grade >= (_totalGrade * 0.75))
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Excellent , GPA : A ");
+            }
+            else if (_grade < (_totalGrade * 0.75) && _grade >= (_totalGrade * 0.50))
+            {
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("Good , GPA : B ");
+            }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Faild");
+            }
             Console.WriteLine($"Your Grade : {_grade} from {_totalGrade}\n");
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("-----------BEST WISHES--------------");
         }
 

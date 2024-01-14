@@ -29,7 +29,11 @@ namespace ConsoleApp1
                 s = true;
                 Console.Write("B - ");
                 b = Console.ReadLine().ToLower().Trim();
-                if (b != a) s = false;
+                if (b != a)
+                {
+                    s = false;
+                    Console.ForegroundColor = ConsoleColor.White;
+                }else Console.ForegroundColor = ConsoleColor.Red;
             } while (s);
 
             do
@@ -37,7 +41,12 @@ namespace ConsoleApp1
                 s = true;
                 Console.Write("C - ");
                 c = Console.ReadLine().ToLower().Trim();
-                if (c != b && c != a) s = false;
+                if (c != b && c != a)
+                {
+                    s = false;
+                    Console.ForegroundColor = ConsoleColor.White;
+                }
+                else Console.ForegroundColor = ConsoleColor.Red;
             } while (s);
 
             do
@@ -45,7 +54,12 @@ namespace ConsoleApp1
                 s = true;
                 Console.Write("D - ");
                 d = Console.ReadLine().ToLower().Trim();
-                if (d != c && d != a && d != b) s = false;
+                if (d != c && d != a && d != b)
+                {
+                    s = false;
+                    Console.ForegroundColor = ConsoleColor.White;
+                }
+                else Console.ForegroundColor = ConsoleColor.Red;
             } while (s);
 
             do
@@ -53,7 +67,12 @@ namespace ConsoleApp1
                 s = true;
                 Console.Write("enter the correct answer :  ");
                 correctAnswer = Console.ReadLine().ToLower().Trim();
-                if (correctAnswer == a || correctAnswer == b || correctAnswer == c || correctAnswer == d) s = false;
+                if (correctAnswer == a || correctAnswer == b || correctAnswer == c || correctAnswer == d)
+                {
+                    s = false;
+                    Console.ForegroundColor = ConsoleColor.White;
+                }
+                else Console.ForegroundColor = ConsoleColor.Red;
             } while (s);
             Answers.Add($"{a} , {b} , {c} , {d} , {correctAnswer}");
         }
@@ -73,8 +92,10 @@ namespace ConsoleApp1
                     if (item.Trim() == answer)
                     {
                         s = false;
+                        Console.ForegroundColor = ConsoleColor.White;
                         break;
                     }
+                    else Console.ForegroundColor = ConsoleColor.Red;
                 }
             } while (s);
             string CorrectAnswer = ChoicesAnswers[ChoicesAnswers.Length - 1].ToLower().Trim();

@@ -19,7 +19,11 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("enter answer [ True , False ]");
                 Answer = Console.ReadLine().ToLower().Trim();
-                if (Answer == "true" || Answer == "false") checkTrueFalse = false;
+                if (Answer == "true" || Answer == "false") 
+                {
+                    checkTrueFalse = false;
+                    Console.ForegroundColor = ConsoleColor.White;
+                }else Console.ForegroundColor = ConsoleColor.Red;
             } while (checkTrueFalse);
             Answers.Add(Answer);
         }
@@ -33,8 +37,13 @@ namespace ConsoleApp1
                 Console.WriteLine("Answer [ True , False ]");
                 Console.Write("Your Answer : ");
                 Answer = Console.ReadLine().ToLower().Trim();
-                if (Answer == "true" || Answer == "false") checkTrueFalse = false;
-                 Correction(i,Answer);
+                if (Answer == "true" || Answer == "false")
+                {
+                    checkTrueFalse = false;
+                    Console.ForegroundColor = ConsoleColor.White;
+                }
+                else Console.ForegroundColor = ConsoleColor.Red;
+                Correction(i,Answer);
                
             } while (checkTrueFalse);
            return Answer == Answers[i];
