@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\CalculatesSalary\\CalculatesSalary\\CalculatesSalary.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\GitHub\\CSharp\\CalculatesSalary\\CalculatesSalary\\CalculatesSalary.csproj",
       "projectName": "CalculatesSalary",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\CalculatesSalary\\CalculatesSalary\\CalculatesSalary.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\CSharp\\CalculatesSalary\\CalculatesSalary\\CalculatesSalary.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\CalculatesSalary\\CalculatesSalary\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\CSharp\\CalculatesSalary\\CalculatesSalary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

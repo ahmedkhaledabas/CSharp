@@ -23,8 +23,8 @@
         public override string ToString()
         {
             return base.ToString() +
-                $"\nCommision : ${Commision}" +
-                $"\nBouns : ${CalcuBouns}" +
+                $"\nCommision : {Commision}" +
+                $"\nBouns : ${CalcuBouns()}" +
                 $"\nNet Salary : ${CalcuNetSalary()}";
         }
     }

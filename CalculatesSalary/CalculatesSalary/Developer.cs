@@ -28,7 +28,7 @@
         public override string ToString()
         {
             return base.ToString() +
-                $" \nTask Completed : ${(TaskCompleted ? "YES" : "NO")}" +
+                $" \nTask Completed : {(TaskCompleted ? "YES" : "NO")}" +
                 $"\nBouns : ${CalcuBouns()}" +
                 $"\nNet Salary : ${CalcuNetSalary()}";
         }
