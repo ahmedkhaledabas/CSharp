@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\bin\Debug\net6.0\Cashier.exe
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\bin\Debug\net6.0\Cashier.deps.json
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\bin\Debug\net6.0\Cashier.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\bin\Debug\net6.0\Cashier.dll
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\bin\Debug\net6.0\Cashier.pdb
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\obj\Debug\net6.0\Cashier.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\obj\Debug\net6.0\Cashier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\obj\Debug\net6.0\Cashier.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\obj\Debug\net6.0\Cashier.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\obj\Debug\net6.0\Cashier.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\obj\Debug\net6.0\Cashier.dll
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\obj\Debug\net6.0\refint\Cashier.dll
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\obj\Debug\net6.0\Cashier.pdb
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\obj\Debug\net6.0\Cashier.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\GitHub\CSharp\Cashier\Cashier\obj\Debug\net6.0\ref\Cashier.dll
