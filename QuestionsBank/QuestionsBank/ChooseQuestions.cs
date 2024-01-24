@@ -14,13 +14,13 @@ namespace ConsoleApp1
 
         public void TakeAnswer()
         {
-            string a = "";
-            string b = "";
-            string c = "";
-            string d = "";
+            string a , b , c , d = "";
+            //string b = "";
+            //string c = "";
+            //string d = "";
             string correctAnswer;
 
-            Console.WriteLine("enter 4 choices");
+            Console.WriteLine("Enter 4 Choices");
             Console.Write("A - ");
             a = Console.ReadLine().ToLower().Trim();
             
@@ -65,7 +65,7 @@ namespace ConsoleApp1
             do
             {
                 s = true;
-                Console.Write("enter the correct answer :  ");
+                Console.Write("Enter The Correct Answer :  ");
                 correctAnswer = Console.ReadLine().ToLower().Trim();
                 if (correctAnswer == a || correctAnswer == b || correctAnswer == c || correctAnswer == d)
                 {
@@ -77,11 +77,12 @@ namespace ConsoleApp1
             Answers.Add($"{a} , {b} , {c} , {d} , {correctAnswer}");
         }
 
-        public override bool CheckAnswer(int i)
+        public override void CheckAnswer(int i)
         {
             string answer;
             ChoicesAnswers = Answers[i].Split(',');
             Console.WriteLine($"A - {ChoicesAnswers[0]} , B - {ChoicesAnswers[1]} , C - {ChoicesAnswers[2]} , D - {ChoicesAnswers[3]}");
+
             do
             {
                 s = true;
@@ -98,15 +99,36 @@ namespace ConsoleApp1
                     else Console.ForegroundColor = ConsoleColor.Red;
                 }
             } while (s);
-            string CorrectAnswer = ChoicesAnswers[ChoicesAnswers.Length - 1].ToLower().Trim();
+           
             Correction(i, answer);
-            return answer == CorrectAnswer;
         }
 
         public void Correction(int i, string answer)
         {
-            if (answer == ChoicesAnswers[0].Trim() || answer == ChoicesAnswers[1].Trim() || answer == ChoicesAnswers[2].Trim() || answer == ChoicesAnswers[3].Trim()) Grade += Mark[i];
+            string CorrectAnswer = ChoicesAnswers[ChoicesAnswers.Length - 1].ToLower().Trim();
+            if (answer == CorrectAnswer)
+            {
+
+                Grade += Mark[i];
+            }
+            else Corrections.Add(answer, i);
         }
 
+        public void CorrectionAnswer()
+        {
+            if (Corrections.Count > 0)
+            {
+                foreach (var item in Corrections)
+                {
+                     Console.ForegroundColor = ConsoleColor.White;
+                     Console.WriteLine($"{Questions[item.Value]} ? ");
+                     Console.ForegroundColor = ConsoleColor.Red;
+                     Console.WriteLine($"Your Answer : {item.Key}");
+                     Console.ForegroundColor = ConsoleColor.Green;
+                     Console.WriteLine($"The Correct Answer : {ChoicesAnswers[ChoicesAnswers.Length - 1]}\n");
+                }
+                     Console.ForegroundColor = ConsoleColor.White;
+            }
+        }
     }
 }

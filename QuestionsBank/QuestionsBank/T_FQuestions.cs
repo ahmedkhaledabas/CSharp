@@ -17,7 +17,7 @@ namespace ConsoleApp1
             Answer = "";
             do
             {
-                Console.WriteLine("enter answer [ True , False ]");
+                Console.Write("Enter Your Correct Answer [ True , False ] : ");
                 Answer = Console.ReadLine().ToLower().Trim();
                 if (Answer == "true" || Answer == "false") 
                 {
@@ -28,14 +28,13 @@ namespace ConsoleApp1
             Answers.Add(Answer);
         }
 
-        public override bool CheckAnswer(int i)
+        public override void CheckAnswer(int i)
         {
             do
             {
                 checkTrueFalse = true;
                 Answer = "";
-                Console.WriteLine("Answer [ True , False ]");
-                Console.Write("Your Answer : ");
+                Console.Write("Answer [ True , False ]" + "\nYour Answer : ");
                 Answer = Console.ReadLine().ToLower().Trim();
                 if (Answer == "true" || Answer == "false")
                 {
@@ -46,7 +45,7 @@ namespace ConsoleApp1
                 Correction(i,Answer);
                
             } while (checkTrueFalse);
-           return Answer == Answers[i];
+           //return Answer == Answers[i];
         }
     }
 

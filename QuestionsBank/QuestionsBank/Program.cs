@@ -70,13 +70,17 @@ namespace ConsoleApp1
 
             t_FQuestions.WelcomeStudent();
             if (chooseQuestions.Questions.Count > 0) chooseQuestions.startExam("MCQ Questions");
-            Console.WriteLine("\n\n");
+            Console.WriteLine("\n");
             if (t_FQuestions.Questions.Count > 0) t_FQuestions.startExam("True & False Questions");
-            Console.WriteLine("\n\n");
+            Console.WriteLine("\n");
             if (completeQuestions.Questions.Count > 0) completeQuestions.startExam("Complete Questions");
-            Console.WriteLine("\n\n");
+            Console.WriteLine("\n");
             if (translateQuestion.Questions.Count > 0) translateQuestion.startExam("Translate Questions");
             Question.PrintGrade();
+            chooseQuestions.CorrectionAnswer();
+            t_FQuestions.CorrectionAnswer();
+            completeQuestions.CorrectionAnswer();
+            translateQuestion.CorrectionAnswer();
         }
     }
 }
