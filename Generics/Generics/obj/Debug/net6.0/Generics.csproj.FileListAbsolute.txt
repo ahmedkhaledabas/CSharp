@@ -1,0 +1,15 @@
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\bin\Debug\net6.0\Generics.exe
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\bin\Debug\net6.0\Generics.deps.json
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\bin\Debug\net6.0\Generics.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\bin\Debug\net6.0\Generics.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\obj\Debug\net6.0\Generics.sourcelink.json
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\obj\Debug\net6.0\Generics.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\obj\Debug\net6.0\refint\Generics.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\obj\Debug\net6.0\Generics.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\Generics\Generics\obj\Debug\net6.0\ref\Generics.dll
