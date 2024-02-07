@@ -1,0 +1,15 @@
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\bin\Debug\net6.0\GenericDelegateType.exe
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\bin\Debug\net6.0\GenericDelegateType.deps.json
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\bin\Debug\net6.0\GenericDelegateType.runtimeconfig.json
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\bin\Debug\net6.0\GenericDelegateType.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\bin\Debug\net6.0\GenericDelegateType.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\obj\Debug\net6.0\GenericDelegateType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\obj\Debug\net6.0\GenericDelegateType.AssemblyInfoInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\obj\Debug\net6.0\GenericDelegateType.AssemblyInfo.cs
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\obj\Debug\net6.0\GenericDelegateType.csproj.CoreCompileInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\obj\Debug\net6.0\GenericDelegateType.sourcelink.json
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\obj\Debug\net6.0\GenericDelegateType.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\obj\Debug\net6.0\refint\GenericDelegateType.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\obj\Debug\net6.0\GenericDelegateType.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\obj\Debug\net6.0\GenericDelegateType.genruntimeconfig.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\GenericDelegateType\GenericDelegateType\obj\Debug\net6.0\ref\GenericDelegateType.dll
