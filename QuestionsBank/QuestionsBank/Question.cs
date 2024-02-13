@@ -135,7 +135,7 @@ namespace ConsoleApp1
             }
         }
 
-        public  void CorrectionAnswer()
+        public virtual void CorrectionAnswer()
         {
                 if(Corrections.Count > 0)
             {
@@ -175,7 +175,7 @@ namespace ConsoleApp1
             else
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Faild");
+                Console.WriteLine("Best Wishes You Are Faild");
             }
             Console.WriteLine($"Your Grade : {_grade} from {_totalGrade}\n");
             Console.ForegroundColor = ConsoleColor.White;

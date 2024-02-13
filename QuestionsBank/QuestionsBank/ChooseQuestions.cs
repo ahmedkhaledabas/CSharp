@@ -115,7 +115,7 @@ namespace ConsoleApp1
             else Corrections.Add(answer, i);
         }
 
-        public void CorrectionAnswer()
+        public override void CorrectionAnswer()
         {
             if (Corrections.Count > 0)
             {
