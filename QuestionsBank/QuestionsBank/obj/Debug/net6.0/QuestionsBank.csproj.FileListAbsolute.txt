@@ -43,3 +43,18 @@ C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\ne
 C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\net6.0\QuestionsBank.pdb
 C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.genruntimeconfig.cache
 C:\Users\LENOVO\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\ref\QuestionsBank.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\net6.0\QuestionsBank.exe
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\net6.0\QuestionsBank.deps.json
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\net6.0\QuestionsBank.runtimeconfig.json
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\net6.0\QuestionsBank.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\bin\Debug\net6.0\QuestionsBank.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.AssemblyInfoInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.AssemblyInfo.cs
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.csproj.CoreCompileInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.sourcelink.json
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\refint\QuestionsBank.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\QuestionsBank.genruntimeconfig.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\QuestionsBank\QuestionsBank\obj\Debug\net6.0\ref\QuestionsBank.dll

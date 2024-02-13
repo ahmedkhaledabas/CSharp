@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Documents\\GitHub\\CSharp\\QuestionsBank\\QuestionsBank\\QuestionsBank.csproj": {}
+    "C:\\Users\\Num 1\\Documents\\GitHub\\CSharp\\QuestionsBank\\QuestionsBank\\QuestionsBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Documents\\GitHub\\CSharp\\QuestionsBank\\QuestionsBank\\QuestionsBank.csproj": {
+    "C:\\Users\\Num 1\\Documents\\GitHub\\CSharp\\QuestionsBank\\QuestionsBank\\QuestionsBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\GitHub\\CSharp\\QuestionsBank\\QuestionsBank\\QuestionsBank.csproj",
+        "projectUniqueName": "C:\\Users\\Num 1\\Documents\\GitHub\\CSharp\\QuestionsBank\\QuestionsBank\\QuestionsBank.csproj",
         "projectName": "QuestionsBank",
-        "projectPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\CSharp\\QuestionsBank\\QuestionsBank\\QuestionsBank.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\CSharp\\QuestionsBank\\QuestionsBank\\obj\\",
+        "projectPath": "C:\\Users\\Num 1\\Documents\\GitHub\\CSharp\\QuestionsBank\\QuestionsBank\\QuestionsBank.csproj",
+        "packagesPath": "C:\\Users\\Num 1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Num 1\\Documents\\GitHub\\CSharp\\QuestionsBank\\QuestionsBank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Num 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,12 +50,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,10 +7,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            ChooseQuestions chooseQuestions = new ChooseQuestions();
-            T_FQuestions t_FQuestions = new T_FQuestions();
-            CompleteQuestions completeQuestions = new CompleteQuestions();
-            TranslateQuestion translateQuestion = new TranslateQuestion();
+            Question chooseQuestions = new ChooseQuestions();
+            Question t_FQuestions = new T_FQuestions();
+            Question completeQuestions = new CompleteQuestions();
+            Question translateQuestion = new TranslateQuestion();
 
             chooseQuestions.WelcomeInstructor();
 

@@ -11,7 +11,7 @@ namespace ConsoleApp1
         private bool checkTrueFalse;
         string Answer;
 
-        public void TakeAnswer()
+        public override void TakeAnswer()
         {
             checkTrueFalse = true;
             Answer = "";

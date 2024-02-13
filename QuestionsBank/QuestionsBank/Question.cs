@@ -59,7 +59,7 @@ namespace ConsoleApp1
             Questions.Add(Console.ReadLine());
         }
 
-        public void TakeAnswer()
+        public virtual void TakeAnswer()
         {
             Answer = "";
             Console.Write("Enter Your Correct Answer : ");
@@ -123,7 +123,7 @@ namespace ConsoleApp1
             }
         }
 
-        public void Correction(int i, string answer)
+        public virtual void Correction(int i, string answer)
         {
             if (answer == Answers[i])
             {

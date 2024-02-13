@@ -12,7 +12,8 @@ namespace ConsoleApp1
         static bool s;
         string[] ChoicesAnswers;
 
-        public void TakeAnswer()
+        
+        public override void TakeAnswer()
         {
             string a , b , c , d = "";
             //string b = "";
@@ -103,7 +104,7 @@ namespace ConsoleApp1
             Correction(i, answer);
         }
 
-        public void Correction(int i, string answer)
+        public override void Correction(int i, string answer)
         {
             string CorrectAnswer = ChoicesAnswers[ChoicesAnswers.Length - 1].ToLower().Trim();
             if (answer == CorrectAnswer)

@@ -1,0 +1,15 @@
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.exe
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.deps.json
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.runtimeconfig.json
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.AssemblyInfoInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.AssemblyInfo.cs
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.sourcelink.json
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\obj\Debug\net6.0\refint\HackerRank.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.genruntimeconfig.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\New folder\HackerRank\HackerRank\obj\Debug\net6.0\ref\HackerRank.dll
