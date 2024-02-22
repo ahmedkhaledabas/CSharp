@@ -1,0 +1,15 @@
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\bin\Debug\net7.0\DeliveryException.exe
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\bin\Debug\net7.0\DeliveryException.deps.json
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\bin\Debug\net7.0\DeliveryException.runtimeconfig.json
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\bin\Debug\net7.0\DeliveryException.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\bin\Debug\net7.0\DeliveryException.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\obj\Debug\net7.0\DeliveryException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\obj\Debug\net7.0\DeliveryException.AssemblyInfoInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\obj\Debug\net7.0\DeliveryException.AssemblyInfo.cs
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\obj\Debug\net7.0\DeliveryException.csproj.CoreCompileInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\obj\Debug\net7.0\DeliveryException.sourcelink.json
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\obj\Debug\net7.0\DeliveryException.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\obj\Debug\net7.0\refint\DeliveryException.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\obj\Debug\net7.0\DeliveryException.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\obj\Debug\net7.0\DeliveryException.genruntimeconfig.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\DeliveryException\DeliveryException\obj\Debug\net7.0\ref\DeliveryException.dll
