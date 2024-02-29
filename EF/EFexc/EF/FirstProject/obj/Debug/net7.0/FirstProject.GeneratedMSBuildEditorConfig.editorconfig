@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FirstProject
-build_property.ProjectDir = C:\Users\Num 1\Documents\GitHub\EF\EFexc\EF\FirstProject\
+build_property.ProjectDir = C:\Users\Num 1\Documents\GitHub\CSharp\EF\EFexc\EF\FirstProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

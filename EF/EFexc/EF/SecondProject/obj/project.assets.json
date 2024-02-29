@@ -2958,11 +2958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Num 1\\Documents\\GitHub\\EF\\EFexc\\EF\\SecondProject\\SecondProject.csproj",
+      "projectUniqueName": "C:\\Users\\Num 1\\Documents\\GitHub\\CSharp\\EF\\EFexc\\EF\\SecondProject\\SecondProject.csproj",
       "projectName": "SecondProject",
-      "projectPath": "C:\\Users\\Num 1\\Documents\\GitHub\\EF\\EFexc\\EF\\SecondProject\\SecondProject.csproj",
+      "projectPath": "C:\\Users\\Num 1\\Documents\\GitHub\\CSharp\\EF\\EFexc\\EF\\SecondProject\\SecondProject.csproj",
       "packagesPath": "C:\\Users\\Num 1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Num 1\\Documents\\GitHub\\EF\\EFexc\\EF\\SecondProject\\obj\\",
+      "outputPath": "C:\\Users\\Num 1\\Documents\\GitHub\\CSharp\\EF\\EFexc\\EF\\SecondProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Num 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
