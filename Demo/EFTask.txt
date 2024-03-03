@@ -1,0 +1,39 @@
+            var categories = context.Categories;
+            foreach (var category in categories)
+            {
+                Console.WriteLine($"{{ ID : {category.CategoryId}\n  Name : {category.CategoryName} }}\n");
+            }
+
+            var product = context.Products.First();
+            Console.WriteLine($"{{ ID : {product.ProductId}\n  Name : {product.ProductName}\n  Price : {product.ListPrice}\n  Model Year : {product.ModelYear}  }}\n");
+
+            var specificProduct = context.Products.Single(e => e.ProductId == 1);
+            Console.WriteLine($"{{ ID : {specificProduct.ProductId}\n  Name : {specificProduct.ProductName}\n  Price : {specificProduct.ListPrice}  }}\n");
+
+            var products = context.Products.Where(e => e.ModelYear == 2016).ToList();
+            foreach (var product in products)
+            {
+                Console.WriteLine($"{{ ID : {product.ProductId}\n  Name : {product.ProductName}\n  Price : {product.ListPrice}\n  Model Year : {product.ModelYear}  }}\n");
+            }
+
+            var specificCustomer = context.Customers.Single(e => e.CustomerId == 1);
+            Console.WriteLine($"{{ ID : {specificCustomer.CustomerId}\n  Full Name : {specificCustomer.FirstName + " " + specificCustomer.LastName}" +
+                $"\n  Phone : {specificCustomer.Phone}\n  City : {specificCustomer.City}\n  State : {specificCustomer.State}  }}\n");
+
+            var productsBrands = context.Products.Include(e => e.Brand);
+            foreach (var product in productsBrands)
+            {
+                Console.WriteLine($"{{ ID : {product.ProductId}\n  Name : {product.ProductName}\n  Price : {product.ListPrice}\n  Brand : {product.Brand.BrandName}  }}\n");
+            }
+
+            Console.WriteLine(context.Products.Count(e => e.Category.CategoryId == 3));
+
+            Console.WriteLine(context.Products.Where(e => e.CategoryId == 1).Sum(e => e.ListPrice));
+
+            Console.WriteLine(context.Products.Average(e => e.ListPrice));
+
+            var orders = context.Orders.Where(e => e.OrderStatus == 3);
+            foreach (var order in orders)
+            {
+                Console.WriteLine($"{{ ID : {order.OrderId}\n  Status : {order.OrderStatus}  }}\n");
+            }

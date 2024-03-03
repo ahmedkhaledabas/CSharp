@@ -1,0 +1,15 @@
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\bin\Debug\net7.0\HackerRankTest.exe
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\bin\Debug\net7.0\HackerRankTest.deps.json
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\bin\Debug\net7.0\HackerRankTest.runtimeconfig.json
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\bin\Debug\net7.0\HackerRankTest.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\bin\Debug\net7.0\HackerRankTest.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\obj\Debug\net7.0\HackerRankTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\obj\Debug\net7.0\HackerRankTest.AssemblyInfoInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\obj\Debug\net7.0\HackerRankTest.AssemblyInfo.cs
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\obj\Debug\net7.0\HackerRankTest.csproj.CoreCompileInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\obj\Debug\net7.0\HackerRankTest.sourcelink.json
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\obj\Debug\net7.0\HackerRankTest.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\obj\Debug\net7.0\refint\HackerRankTest.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\obj\Debug\net7.0\HackerRankTest.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\obj\Debug\net7.0\HackerRankTest.genruntimeconfig.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\HackerRankTest\HackerRankTest\obj\Debug\net7.0\ref\HackerRankTest.dll
