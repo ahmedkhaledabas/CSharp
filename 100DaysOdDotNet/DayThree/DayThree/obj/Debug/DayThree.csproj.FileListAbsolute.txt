@@ -1,0 +1,7 @@
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\DayThree\bin\Debug\DayThree.exe.config
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\DayThree\bin\Debug\DayThree.exe
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\DayThree\bin\Debug\DayThree.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\DayThree\obj\Debug\DayThree.csproj.AssemblyReference.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\DayThree\obj\Debug\DayThree.csproj.CoreCompileInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\DayThree\obj\Debug\DayThree.exe
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\DayThree\obj\Debug\DayThree.pdb

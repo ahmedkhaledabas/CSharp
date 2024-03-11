@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Documentation</name>
+    </assembly>
+    <members>
+        <member name="M:Documentation.Program.maxMin(System.Int32,System.Collections.Generic.List{System.Int32})">
+            <summary>
+            deference between max and min 
+            </summary>
+            <param name="k"></param>
+            <param name="arr"></param>
+            <returns>
+            type integer
+            </returns>
+        </member>
+    </members>
+</doc>

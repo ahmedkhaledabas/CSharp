@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuestionsBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66008abf17c630972f4d47992866ac77f9bdda04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9785f63dc6ba60bb7d328e894b75db9fcbaa376b")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuestionsBank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuestionsBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

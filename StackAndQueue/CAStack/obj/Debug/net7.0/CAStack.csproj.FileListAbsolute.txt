@@ -1,0 +1,15 @@
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\bin\Debug\net7.0\CAStack.exe
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\bin\Debug\net7.0\CAStack.deps.json
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\bin\Debug\net7.0\CAStack.runtimeconfig.json
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\bin\Debug\net7.0\CAStack.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\bin\Debug\net7.0\CAStack.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.AssemblyInfoInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.AssemblyInfo.cs
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.csproj.CoreCompileInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.sourcelink.json
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\obj\Debug\net7.0\refint\CAStack.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.genruntimeconfig.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\StackAndQueue\CAStack\obj\Debug\net7.0\ref\CAStack.dll

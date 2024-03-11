@@ -11,7 +11,6 @@ namespace ConsoleApp1
             Question t_FQuestions = new T_FQuestions();
             Question completeQuestions = new CompleteQuestions();
             Question translateQuestion = new TranslateQuestion();
-
             chooseQuestions.WelcomeInstructor();
 
             bool x;

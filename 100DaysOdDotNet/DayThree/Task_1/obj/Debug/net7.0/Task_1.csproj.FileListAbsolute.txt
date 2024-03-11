@@ -1,0 +1,15 @@
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\bin\Debug\net7.0\Task_1.exe
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\bin\Debug\net7.0\Task_1.deps.json
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\bin\Debug\net7.0\Task_1.runtimeconfig.json
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\bin\Debug\net7.0\Task_1.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\bin\Debug\net7.0\Task_1.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\obj\Debug\net7.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfoInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfo.cs
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\obj\Debug\net7.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\obj\Debug\net7.0\Task_1.sourcelink.json
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\obj\Debug\net7.0\Task_1.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\obj\Debug\net7.0\refint\Task_1.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\obj\Debug\net7.0\Task_1.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\obj\Debug\net7.0\Task_1.genruntimeconfig.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\100DaysOdDotNet\DayThree\Task_1\obj\Debug\net7.0\ref\Task_1.dll

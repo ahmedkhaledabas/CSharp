@@ -155,6 +155,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("--------------WELCOME---------------"+
                               "\n-------------Start Exam-------------" + 
+                              $"There are {Questions.Count} Total Questions"+
                               $"\n{DateTime.Now}" +
                               "\n-----------BEST WISHES--------------\n");
         }

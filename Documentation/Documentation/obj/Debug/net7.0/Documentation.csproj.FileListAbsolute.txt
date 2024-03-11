@@ -1,0 +1,17 @@
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\bin\Debug\net7.0\Documentation.exe
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\bin\Debug\net7.0\Documentation.deps.json
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\bin\Debug\net7.0\Documentation.runtimeconfig.json
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\bin\Debug\net7.0\Documentation.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\bin\Debug\net7.0\Documentation.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\bin\Debug\net7.0\documentaion.xml
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\obj\Debug\net7.0\Documentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\obj\Debug\net7.0\Documentation.AssemblyInfoInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\obj\Debug\net7.0\Documentation.AssemblyInfo.cs
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\obj\Debug\net7.0\Documentation.csproj.CoreCompileInputs.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\obj\Debug\net7.0\Documentation.sourcelink.json
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\obj\Debug\net7.0\Documentation.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\obj\Debug\net7.0\refint\Documentation.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\obj\Debug\net7.0\Documentation.pdb
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\obj\Debug\net7.0\Documentation.genruntimeconfig.cache
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\obj\Debug\net7.0\ref\Documentation.dll
+C:\Users\Num 1\Documents\GitHub\CSharp\Documentation\Documentation\bin\Debug\net7.0\Data\Contries.json
